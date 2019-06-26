@@ -1,0 +1,2 @@
+# BanglaQRAPI
+Bangla QR API
